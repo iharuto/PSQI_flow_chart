@@ -1,6 +1,8 @@
 # PSQI_flow_chart
 for visual understanding of PSQI
 
+![](psqi_flow_thresholds_compact.png)
+
 <details><summary>py code</summary>
 
 ```py
