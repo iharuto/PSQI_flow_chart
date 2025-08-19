@@ -112,6 +112,8 @@ out_path_custom
 
 </details>
 
-### Acknowledgements
+### References
 - Buysse DJ, et al., 1989
+  
+### Acknowledgements
 - ChatGPT5
