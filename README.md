@@ -1,5 +1,5 @@
-# PSQI_flow_chart
-for visual understanding of PSQI
+# PSQI flow chart
+For a visual understanding of PSQI
 
 <p align="center">
   <img src="psqi_flow_thresholds_compact.png" alt="PSQI Flow Diagram" width="75%">
