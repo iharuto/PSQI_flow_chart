@@ -1,9 +1,11 @@
 # PSQI_flow_chart
 for visual understanding of PSQI
 
-![](psqi_flow_thresholds_compact.png)
+<p align="center">
+  <img src="psqi_flow_thresholds_compact.png" alt="PSQI Flow Diagram" width="75%">
+</p>
 
-<details><summary>py code</summary>
+<details><summary>py code to create the plot</summary>
 
 ```py
 # Modify the edge labels per your request and re-generate the plot.
